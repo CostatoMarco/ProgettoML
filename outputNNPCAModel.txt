@@ -1,0 +1,1732 @@
+Activation function:  relu
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  174  1530]
+ [   96 16367]]
+
+Accuracy: 0.8924973853690757
+
+Precision: 0.08148148148148149
+
+Recall: 0.012738853503184714
+
+F1-score: 0.022033049574361547
+--------------
+Activation function:  relu
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  255  1449]
+ [  115 16348]]
+
+Accuracy: 0.8888644245059724
+
+Precision: 0.10540540540540541
+
+Recall: 0.0225825130283729
+
+F1-score: 0.03719599427753934
+--------------
+Activation function:  relu
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  205  1499]
+ [   46 16417]]
+
+Accuracy: 0.8943138658006275
+
+Precision: 0.11553784860557768
+
+Recall: 0.01679212507237985
+
+F1-score: 0.029322548028311426
+--------------
+Activation function:  relu
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[   97  1607]
+ [   37 16426]]
+
+Accuracy: 0.8987724995871635
+
+Precision: 0.08208955223880597
+
+Recall: 0.006369426751592357
+
+F1-score: 0.011821601289629233
+--------------
+Activation function:  relu
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  relu
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  relu
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  296  1408]
+ [  178 16285]]
+
+Accuracy: 0.8842406561347498
+
+Precision: 0.10337552742616034
+
+Recall: 0.028372900984365953
+
+F1-score: 0.04452521581099501
+--------------
+Activation function:  relu
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  relu
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  220  1484]
+ [  135 16328]]
+
+Accuracy: 0.8894699179831562
+
+Precision: 0.10422535211267606
+
+Recall: 0.021424435437174292
+
+F1-score: 0.03554274735830932
+--------------
+Activation function:  relu
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  275  1429]
+ [  171 16292]]
+
+Accuracy: 0.8845709253041228
+
+Precision: 0.08520179372197309
+
+Recall: 0.022003474232773594
+
+F1-score: 0.0349746893695352
+--------------
+Activation function:  relu
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  relu
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  297  1407]
+ [  151 16312]]
+
+Accuracy: 0.8856718225353664
+
+Precision: 0.109375
+
+Recall: 0.028372900984365953
+
+F1-score: 0.045057471264367814
+--------------
+Activation function:  relu
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  323  1381]
+ [  188 16275]]
+
+Accuracy: 0.8828645345956955
+
+Precision: 0.10763209393346379
+
+Recall: 0.03184713375796178
+
+F1-score: 0.049151027703306524
+--------------
+Activation function:  relu
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  281  1423]
+ [  130 16333]]
+
+Accuracy: 0.887158033797545
+
+Precision: 0.1070559610705596
+
+Recall: 0.025477707006369428
+
+F1-score: 0.0411599625818522
+--------------
+Activation function:  relu
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  267  1437]
+ [   96 16367]]
+
+Accuracy: 0.8894699179831562
+
+Precision: 0.11294765840220386
+
+Recall: 0.02374059061957151
+
+F1-score: 0.039234449760765545
+--------------
+Activation function:  relu
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  283  1421]
+ [  122 16341]]
+
+Accuracy: 0.8872681235206693
+
+Precision: 0.1037037037037037
+
+Recall: 0.024319629415170817
+
+F1-score: 0.039399624765478425
+--------------
+Activation function:  relu
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  relu
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  relu
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  relu
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  180  1524]
+ [   77 16386]]
+
+Accuracy: 0.8936533274618814
+
+Precision: 0.10116731517509728
+
+Recall: 0.015055008685581933
+
+F1-score: 0.026209677419354836
+--------------
+Activation function:  relu
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  381  1323]
+ [  276 16187]]
+
+Accuracy: 0.8754885231463643
+
+Precision: 0.0928462709284627
+
+Recall: 0.03532136653155762
+
+F1-score: 0.0511744966442953
+--------------
+Activation function:  relu
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  249  1455]
+ [   90 16373]]
+
+Accuracy: 0.890350635768151
+
+Precision: 0.10914454277286136
+
+Recall: 0.021424435437174292
+
+F1-score: 0.03581800580832526
+--------------
+Activation function:  relu
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  relu
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  186  1518]
+ [   34 16429]]
+
+Accuracy: 0.8953597181703088
+
+Precision: 0.10454545454545454
+
+Recall: 0.013317892298784018
+
+F1-score: 0.02362609142270159
+--------------
+Activation function:  relu
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  relu
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  259  1445]
+ [  109 16354]]
+
+Accuracy: 0.8889745142290967
+
+Precision: 0.10597826086956522
+
+Recall: 0.0225825130283729
+
+F1-score: 0.037231503579952266
+--------------
+Activation function:  relu
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  relu
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  relu
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  relu
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  relu
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  157  1547]
+ [   55 16408]]
+
+Accuracy: 0.8953597181703088
+
+Precision: 0.08962264150943396
+
+Recall: 0.011001737116386797
+
+F1-score: 0.019597730789066528
+--------------
+Activation function:  relu
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  relu
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  233  1471]
+ [   67 16396]]
+
+Accuracy: 0.8923872956459514
+
+Precision: 0.12
+
+Recall: 0.020845396641574986
+
+F1-score: 0.03552047360631475
+--------------
+Activation function:  relu
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  272  1432]
+ [  115 16348]]
+
+Accuracy: 0.8886992899212859
+
+Precision: 0.11886304909560723
+
+Recall: 0.026635784597568036
+
+F1-score: 0.043519394512771994
+--------------
+Activation function:  relu
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  224  1480]
+ [   76 16387]]
+
+Accuracy: 0.8917267573072054
+
+Precision: 0.1
+
+Recall: 0.017371163867979156
+
+F1-score: 0.029600394671928962
+--------------
+Activation function:  relu
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  tanh
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  325  1379]
+ [  203 16260]]
+
+Accuracy: 0.8815985027797655
+
+Precision: 0.09848484848484848
+
+Recall: 0.030110017371163866
+
+F1-score: 0.04611973392461197
+--------------
+Activation function:  tanh
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  311  1393]
+ [  179 16284]]
+
+Accuracy: 0.8835801177960038
+
+Precision: 0.10408163265306122
+
+Recall: 0.029530978575564564
+
+F1-score: 0.04600811907983762
+--------------
+Activation function:  tanh
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  299  1405]
+ [  150 16313]]
+
+Accuracy: 0.8853965982275555
+
+Precision: 0.10467706013363029
+
+Recall: 0.02721482339316734
+
+F1-score: 0.043198529411764705
+--------------
+Activation function:  tanh
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  300  1404]
+ [  160 16303]]
+
+Accuracy: 0.8855617328122419
+
+Precision: 0.11739130434782609
+
+Recall: 0.03126809496236248
+
+F1-score: 0.04938271604938271
+--------------
+Activation function:  tanh
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  216  1488]
+ [   75 16388]]
+
+Accuracy: 0.8926625199537623
+
+Precision: 0.11683848797250859
+
+Recall: 0.019687319050376375
+
+F1-score: 0.03369672943508424
+--------------
+Activation function:  tanh
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  202  1502]
+ [   42 16421]]
+
+Accuracy: 0.8951395387240602
+
+Precision: 0.13524590163934427
+
+Recall: 0.01910828025477707
+
+F1-score: 0.03348554033485541
+--------------
+Activation function:  tanh
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  290  1414]
+ [  222 16241]]
+
+Accuracy: 0.8821489513953873
+
+Precision: 0.095703125
+
+Recall: 0.028372900984365953
+
+F1-score: 0.04376953997320232
+--------------
+Activation function:  tanh
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  285  1419]
+ [  170 16293]]
+
+Accuracy: 0.8848461496119338
+
+Precision: 0.0989010989010989
+
+Recall: 0.02605674580196873
+
+F1-score: 0.04124656278643446
+--------------
+Activation function:  tanh
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  320  1384]
+ [  198 16265]]
+
+Accuracy: 0.8823691308416359
+
+Precision: 0.10424710424710425
+
+Recall: 0.03126809496236248
+
+F1-score: 0.04810690423162583
+--------------
+Activation function:  tanh
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  310  1394]
+ [  180 16283]]
+
+Accuracy: 0.8835801177960038
+
+Precision: 0.10408163265306122
+
+Recall: 0.029530978575564564
+
+F1-score: 0.04600811907983762
+--------------
+Activation function:  tanh
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  220  1484]
+ [   54 16409]]
+
+Accuracy: 0.8935982826003193
+
+Precision: 0.12408759124087591
+
+Recall: 0.019687319050376375
+
+F1-score: 0.03398300849575212
+--------------
+Activation function:  tanh
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[   93  1611]
+ [   11 16452]]
+
+Accuracy: 0.9003137557109044
+
+Precision: 0.09615384615384616
+
+Recall: 0.005790387955993051
+
+F1-score: 0.010922992900054615
+--------------
+Activation function:  tanh
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  293  1411]
+ [  148 16315]]
+
+Accuracy: 0.8858369571200528
+
+Precision: 0.10657596371882086
+
+Recall: 0.02721482339316734
+
+F1-score: 0.043357933579335796
+--------------
+Activation function:  tanh
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  304  1400]
+ [  167 16296]]
+
+Accuracy: 0.8845158804425607
+
+Precision: 0.10615711252653928
+
+Recall: 0.02895193977996526
+
+F1-score: 0.04549590536851683
+--------------
+Activation function:  tanh
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  285  1419]
+ [  120 16343]]
+
+Accuracy: 0.8873782132437937
+
+Precision: 0.10617283950617284
+
+Recall: 0.024898668210770122
+
+F1-score: 0.04033771106941838
+--------------
+Activation function:  tanh
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  263  1441]
+ [  110 16353]]
+
+Accuracy: 0.8886992899212859
+
+Precision: 0.10455764075067024
+
+Recall: 0.0225825130283729
+
+F1-score: 0.037142857142857144
+--------------
+Activation function:  tanh
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  236  1468]
+ [   81 16382]]
+
+Accuracy: 0.8913414432762702
+
+Precision: 0.11041009463722397
+
+Recall: 0.02026635784597568
+
+F1-score: 0.03424657534246576
+--------------
+Activation function:  tanh
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  489  1215]
+ [  496 15967]]
+
+Accuracy: 0.8607365002477019
+
+Precision: 0.09238578680203045
+
+Recall: 0.052692530399536766
+
+F1-score: 0.06710914454277286
+--------------
+Activation function:  tanh
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  182  1522]
+ [  119 16344]]
+
+Accuracy: 0.8915616227225188
+
+Precision: 0.09634551495016612
+
+Recall: 0.01679212507237985
+
+F1-score: 0.028599605522682443
+--------------
+Activation function:  tanh
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  273  1431]
+ [  146 16317]]
+
+Accuracy: 0.8868277646281719
+
+Precision: 0.10739856801909307
+
+Recall: 0.02605674580196873
+
+F1-score: 0.04193849021435228
+--------------
+Activation function:  tanh
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  287  1417]
+ [  140 16323]]
+
+Accuracy: 0.8862773160125502
+
+Precision: 0.10304449648711944
+
+Recall: 0.025477707006369428
+
+F1-score: 0.040854224698235846
+--------------
+Activation function:  tanh
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  371  1333]
+ [  257 16206]]
+
+Accuracy: 0.8774150933010404
+
+Precision: 0.10191082802547771
+
+Recall: 0.03705848291835553
+
+F1-score: 0.054352441613588105
+--------------
+Activation function:  tanh
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  262  1442]
+ [  103 16360]]
+
+Accuracy: 0.8890295590906588
+
+Precision: 0.10410958904109589
+
+Recall: 0.022003474232773594
+
+F1-score: 0.036328871892925434
+--------------
+Activation function:  tanh
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  221  1483]
+ [   58 16405]]
+
+Accuracy: 0.8929927891231354
+
+Precision: 0.1111111111111111
+
+Recall: 0.01795020266357846
+
+F1-score: 0.030907278165503486
+--------------
+Activation function:  tanh
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  tanh
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  tanh
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  tanh
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  tanh
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  tanh
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  tanh
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  tanh
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  tanh
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  tanh
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  tanh
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  tanh
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  sigmoid
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  sigmoid
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  271  1433]
+ [  176 16287]]
+
+Accuracy: 0.8851764187813068
+
+Precision: 0.09843400447427293
+
+Recall: 0.025477707006369428
+
+F1-score: 0.040478380864765406
+--------------
+Activation function:  sigmoid
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  282  1422]
+ [  122 16341]]
+
+Accuracy: 0.8874332581053559
+
+Precision: 0.10643564356435643
+
+Recall: 0.024898668210770122
+
+F1-score: 0.04035664007508213
+--------------
+Activation function:  sigmoid
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  266  1438]
+ [  101 16362]]
+
+Accuracy: 0.8891396488137833
+
+Precision: 0.10899182561307902
+
+Recall: 0.023161551823972205
+
+F1-score: 0.0382043935052531
+--------------
+Activation function:  sigmoid
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  260  1444]
+ [  121 16342]]
+
+Accuracy: 0.8885892001981615
+
+Precision: 0.11023622047244094
+
+Recall: 0.024319629415170817
+
+F1-score: 0.03984819734345351
+--------------
+Activation function:  sigmoid
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  226  1478]
+ [   61 16402]]
+
+Accuracy: 0.8927726096768867
+
+Precision: 0.11498257839721254
+
+Recall: 0.01910828025477707
+
+F1-score: 0.03277060575968223
+--------------
+Activation function:  sigmoid
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  sigmoid
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[   72  1632]
+ [   33 16430]]
+
+Accuracy: 0.9003688005724666
+
+Precision: 0.10476190476190476
+
+Recall: 0.006369426751592357
+
+F1-score: 0.012008733624454149
+--------------
+Activation function:  sigmoid
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  328  1376]
+ [  193 16270]]
+
+Accuracy: 0.8822039962569495
+
+Precision: 0.1036468330134357
+
+Recall: 0.03126809496236248
+
+F1-score: 0.04804270462633452
+--------------
+Activation function:  sigmoid
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  300  1404]
+ [  149 16314]]
+
+Accuracy: 0.8856167776738042
+
+Precision: 0.1091314031180401
+
+Recall: 0.028372900984365953
+
+F1-score: 0.04503676470588235
+--------------
+Activation function:  sigmoid
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  273  1431]
+ [  110 16353]]
+
+Accuracy: 0.8882589310287885
+
+Precision: 0.10443864229765012
+
+Recall: 0.023161551823972205
+
+F1-score: 0.037914691943127965
+--------------
+Activation function:  sigmoid
+Loss function:  binary_crossentropy
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  280  1424]
+ [  118 16345]]
+
+Accuracy: 0.8879837067209776
+
+Precision: 0.11306532663316583
+
+Recall: 0.02605674580196873
+
+F1-score: 0.042352941176470586
+--------------
+Activation function:  sigmoid
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  283  1421]
+ [  155 16308]]
+
+Accuracy: 0.885892001981615
+
+Precision: 0.1050228310502283
+
+Recall: 0.026635784597568036
+
+F1-score: 0.04249422632794456
+--------------
+Activation function:  sigmoid
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  296  1408]
+ [  185 16278]]
+
+Accuracy: 0.8837452523806902
+
+Precision: 0.0997920997920998
+
+Recall: 0.027793862188766647
+
+F1-score: 0.04347826086956522
+--------------
+Activation function:  sigmoid
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  311  1393]
+ [  166 16297]]
+
+Accuracy: 0.8838553421038146
+
+Precision: 0.09853249475890985
+
+Recall: 0.02721482339316734
+
+F1-score: 0.0426497277676951
+--------------
+Activation function:  sigmoid
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  308  1396]
+ [  171 16292]]
+
+Accuracy: 0.8842957009963119
+
+Precision: 0.10855949895615867
+
+Recall: 0.030110017371163866
+
+F1-score: 0.04714415231187669
+--------------
+Activation function:  sigmoid
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  196  1508]
+ [   44 16419]]
+
+Accuracy: 0.8946991798315628
+
+Precision: 0.1125
+
+Recall: 0.01563404748118124
+
+F1-score: 0.027452974072191154
+--------------
+Activation function:  sigmoid
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[  237  1467]
+ [   89 16374]]
+
+Accuracy: 0.8907359497990862
+
+Precision: 0.10429447852760736
+
+Recall: 0.019687319050376375
+
+F1-score: 0.033122260107160253
+--------------
+Activation function:  sigmoid
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  199  1505]
+ [  115 16348]]
+
+Accuracy: 0.891286398414708
+
+Precision: 0.10509554140127389
+
+Recall: 0.01910828025477707
+
+F1-score: 0.03233708966193043
+--------------
+Activation function:  sigmoid
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  128  1576]
+ [   60 16403]]
+
+Accuracy: 0.8965707051246766
+
+Precision: 0.09574468085106383
+
+Recall: 0.010422698320787493
+
+F1-score: 0.018798955613577025
+--------------
+Activation function:  sigmoid
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  280  1424]
+ [  112 16351]]
+
+Accuracy: 0.8879837067209776
+
+Precision: 0.10714285714285714
+
+Recall: 0.024319629415170817
+
+F1-score: 0.03964134025483719
+--------------
+Activation function:  sigmoid
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  281  1423]
+ [  118 16345]]
+
+Accuracy: 0.8877084824131667
+
+Precision: 0.10776942355889724
+
+Recall: 0.024898668210770122
+
+F1-score: 0.04045155221072436
+--------------
+Activation function:  sigmoid
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  289  1415]
+ [  150 16313]]
+
+Accuracy: 0.8858369571200528
+
+Precision: 0.10478359908883828
+
+Recall: 0.026635784597568036
+
+F1-score: 0.04247460757156048
+--------------
+Activation function:  sigmoid
+Loss function:  mean_squared_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[  199  1505]
+ [   39 16424]]
+
+Accuracy: 0.8949193592778114
+
+Precision: 0.11764705882352941
+
+Recall: 0.016213086276780544
+
+F1-score: 0.028498727735368955
+--------------
+Activation function:  sigmoid
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  sigmoid
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  sigmoid
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  sigmoid
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  sigmoid
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  sigmoid
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  35
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  sigmoid
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  sigmoid
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  sigmoid
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  sigmoid
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  sigmoid
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+Activation function:  sigmoid
+Loss function:  mean_absolute_error
+#Epochs:  20
+Batch size:  100
+Confusion matrix:
+ [[    0  1704]
+ [    0 16463]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+--------------
+top5 accuracy:  [(0.9049375240821269, 'relu,binary_crossentropy,20,35,0.1,3'), (0.9049375240821269, 'relu,binary_crossentropy,20,35,0.1,5'), (0.9049375240821269, 'relu,binary_crossentropy,20,100,0.001,5'), (0.9049375240821269, 'relu,binary_crossentropy,20,100,0.1,3'), (0.9049375240821269, 'relu,mean_squared_error,20,35,0.1,3')]
+top5 precision:  [(0.13524590163934427, 'tanh,binary_crossentropy,20,35,0.1,5'), (0.12408759124087591, 'tanh,binary_crossentropy,20,100,0.1,3'), (0.12, 'relu,mean_absolute_error,20,100,0.01,3'), (0.11886304909560723, 'relu,mean_absolute_error,20,100,0.01,5'), (0.11764705882352941, 'sigmoid,mean_squared_error,20,100,0.1,5')]
+top5 recall:  [(0.052692530399536766, 'tanh,mean_squared_error,20,35,0.1,5'), (0.03705848291835553, 'tanh,mean_squared_error,20,100,0.01,5'), (0.03532136653155762, 'relu,mean_squared_error,20,100,0.01,3'), (0.03184713375796178, 'relu,mean_squared_error,20,35,0.001,3'), (0.03126809496236248, 'tanh,binary_crossentropy,20,35,0.01,5')]
+top5 f1:  [(0.06710914454277286, 'tanh,mean_squared_error,20,35,0.1,5'), (0.054352441613588105, 'tanh,mean_squared_error,20,100,0.01,5'), (0.0511744966442953, 'relu,mean_squared_error,20,100,0.01,3'), (0.04938271604938271, 'tanh,binary_crossentropy,20,35,0.01,5'), (0.049151027703306524, 'relu,mean_squared_error,20,35,0.001,3')]
