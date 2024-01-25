@@ -266,3 +266,271 @@ top5 accuracy:  [(0.9062035558980569, '0.5, gini, balanced'), (0.906203555898056
 top5 precision:  [(0.39761194029850744, '0, gini, balanced'), (0.3951751866743251, '0, entropy, balanced'), (0.3951751866743251, '0, log_loss, balanced'), (0.39132882882882886, '0, gini, None'), (0.377431906614786, '0, entropy, None')]
 top5 recall:  [(0.9911971830985915, '0.005, gini, balanced'), (0.9882629107981221, '0.005, entropy, balanced'), (0.9882629107981221, '0.005, log_loss, balanced'), (0.9806338028169014, '0.05, entropy, balanced'), (0.9806338028169014, '0.05, log_loss, balanced')]
 top5 f1:  [(0.4304153354632587, '0.005, entropy, balanced'), (0.4304153354632587, '0.005, log_loss, balanced'), (0.41180056077044985, '0.005, gini, balanced'), (0.3994252873563218, '0, gini, None'), (0.39941944847605226, '0, entropy, balanced')]
+Confusion matrix:
+ [[  690  1037]
+ [ 1031 15409]]
+
+Accuracy: 0.8861672262894259
+
+Precision: 0.4009296920395119
+
+Recall: 0.3995367689635206
+
+F1-score: 0.4002320185614849
+Confusion matrix:
+ [[  710  1017]
+ [ 1164 15276]]
+
+Accuracy: 0.8799471569329003
+
+Precision: 0.37886872998932764
+
+Recall: 0.41111754487550667
+
+F1-score: 0.394334906970286
+Confusion matrix:
+ [[  692  1035]
+ [ 1010 15430]]
+
+Accuracy: 0.8874332581053559
+
+Precision: 0.40658049353701525
+
+Recall: 0.40069484655471915
+
+F1-score: 0.40361621463983666
+Confusion matrix:
+ [[  692  1035]
+ [ 1051 15389]]
+
+Accuracy: 0.8851764187813068
+
+Precision: 0.3970166379804934
+
+Recall: 0.40069484655471915
+
+F1-score: 0.39884726224783856
+Confusion matrix:
+ [[  692  1035]
+ [ 1010 15430]]
+
+Accuracy: 0.8874332581053559
+
+Precision: 0.40658049353701525
+
+Recall: 0.40069484655471915
+
+F1-score: 0.40361621463983666
+Confusion matrix:
+ [[  692  1035]
+ [ 1051 15389]]
+
+Accuracy: 0.8851764187813068
+
+Precision: 0.3970166379804934
+
+Recall: 0.40069484655471915
+
+F1-score: 0.39884726224783856
+Confusion matrix:
+ [[    0  1727]
+ [    0 16440]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+Confusion matrix:
+ [[    0  1727]
+ [    0 16440]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+Confusion matrix:
+ [[    0  1727]
+ [    0 16440]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+Confusion matrix:
+ [[    0  1727]
+ [    0 16440]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+Confusion matrix:
+ [[    0  1727]
+ [    0 16440]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+Confusion matrix:
+ [[    0  1727]
+ [    0 16440]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+Confusion matrix:
+ [[ 1663    64]
+ [ 5545 10895]]
+
+Accuracy: 0.6912533714977707
+
+Precision: 0.23071587125416204
+
+Recall: 0.9629415170816444
+
+F1-score: 0.3722439843312815
+Confusion matrix:
+ [[    0  1727]
+ [    0 16440]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+Confusion matrix:
+ [[ 1692    35]
+ [ 6015 10425]]
+
+Accuracy: 0.6669785875488523
+
+Precision: 0.21954067730634488
+
+Recall: 0.9797336421540244
+
+F1-score: 0.35870256518973925
+Confusion matrix:
+ [[    0  1727]
+ [    0 16440]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+Confusion matrix:
+ [[ 1692    35]
+ [ 6015 10425]]
+
+Accuracy: 0.6669785875488523
+
+Precision: 0.21954067730634488
+
+Recall: 0.9797336421540244
+
+F1-score: 0.35870256518973925
+Confusion matrix:
+ [[    0  1727]
+ [    0 16440]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+Confusion matrix:
+ [[ 1685    42]
+ [ 4679 11761]]
+
+Accuracy: 0.7401332085649804
+
+Precision: 0.2647705845380264
+
+Recall: 0.9756803705848291
+
+F1-score: 0.41651217402051655
+Confusion matrix:
+ [[    0  1727]
+ [    0 16440]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+Confusion matrix:
+ [[ 1691    36]
+ [ 4606 11834]]
+
+Accuracy: 0.7444817526283921
+
+Precision: 0.2685405748769255
+
+Recall: 0.979154603358425
+
+F1-score: 0.42148554336989036
+Confusion matrix:
+ [[    0  1727]
+ [    0 16440]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+Confusion matrix:
+ [[ 1691    36]
+ [ 4606 11834]]
+
+Accuracy: 0.7444817526283921
+
+Precision: 0.2685405748769255
+
+Recall: 0.979154603358425
+
+F1-score: 0.42148554336989036
+Confusion matrix:
+ [[    0  1727]
+ [    0 16440]]
+
+Accuracy: 0.9049375240821269
+
+Precision: 0.0
+
+Recall: 0.0
+
+F1-score: 0.0
+top5 accuracy:  [(0.9049375240821269, '0.5, gini, balanced'), (0.9049375240821269, '0.5, gini, None'), (0.9049375240821269, '0.5, entropy, balanced'), (0.9049375240821269, '0.5, entropy, None'), (0.9049375240821269, '0.5, log_loss, balanced')]
+top5 precision:  [(0.40658049353701525, '0, entropy, balanced'), (0.40658049353701525, '0, log_loss, balanced'), (0.4009296920395119, '0, gini, balanced'), (0.3970166379804934, '0, entropy, None'), (0.3970166379804934, '0, log_loss, None')]
+top5 recall:  [(0.9797336421540244, '0.05, entropy, balanced'), (0.9797336421540244, '0.05, log_loss, balanced'), (0.979154603358425, '0.005, entropy, balanced'), (0.979154603358425, '0.005, log_loss, balanced'), (0.9756803705848291, '0.005, gini, balanced')]
+top5 f1:  [(0.42148554336989036, '0.005, entropy, balanced'), (0.42148554336989036, '0.005, log_loss, balanced'), (0.41651217402051655, '0.005, gini, balanced'), (0.40361621463983666, '0, entropy, balanced'), (0.40361621463983666, '0, log_loss, balanced')]
