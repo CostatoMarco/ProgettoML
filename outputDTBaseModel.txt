@@ -1,3 +1,6 @@
+ccp_alpha:  0
+criterion:  gini
+class_weight:  balanced
 Confusion matrix:
  [[  739   988]
  [  978 15462]]
@@ -9,6 +12,9 @@ Precision: 0.4304018637157833
 Recall: 0.4279096699478865
 
 F1-score: 0.42915214866434376
+ccp_alpha:  0
+criterion:  gini
+class_weight:  None
 Confusion matrix:
  [[  780   947]
  [ 1099 15341]]
@@ -20,6 +26,9 @@ Precision: 0.41511442256519426
 Recall: 0.451650260567458
 
 F1-score: 0.43261231281198
+ccp_alpha:  0
+criterion:  entropy
+class_weight:  balanced
 Confusion matrix:
  [[  774   953]
  [ 1012 15428]]
@@ -31,6 +40,9 @@ Precision: 0.4333706606942889
 Recall: 0.4481760277938622
 
 F1-score: 0.44064901793339023
+ccp_alpha:  0
+criterion:  entropy
+class_weight:  None
 Confusion matrix:
  [[  809   918]
  [ 1017 15423]]
@@ -42,6 +54,9 @@ Precision: 0.4430449069003286
 Recall: 0.46844238563983787
 
 F1-score: 0.45538981142696316
+ccp_alpha:  0
+criterion:  log_loss
+class_weight:  balanced
 Confusion matrix:
  [[  774   953]
  [ 1012 15428]]
@@ -53,6 +68,9 @@ Precision: 0.4333706606942889
 Recall: 0.4481760277938622
 
 F1-score: 0.44064901793339023
+ccp_alpha:  0
+criterion:  log_loss
+class_weight:  None
 Confusion matrix:
  [[  809   918]
  [ 1017 15423]]
@@ -64,6 +82,9 @@ Precision: 0.4430449069003286
 Recall: 0.46844238563983787
 
 F1-score: 0.45538981142696316
+ccp_alpha:  0.5
+criterion:  gini
+class_weight:  balanced
 Confusion matrix:
  [[    0  1727]
  [    0 16440]]
@@ -75,6 +96,9 @@ Precision: 0.0
 Recall: 0.0
 
 F1-score: 0.0
+ccp_alpha:  0.5
+criterion:  gini
+class_weight:  None
 Confusion matrix:
  [[    0  1727]
  [    0 16440]]
@@ -86,6 +110,9 @@ Precision: 0.0
 Recall: 0.0
 
 F1-score: 0.0
+ccp_alpha:  0.5
+criterion:  entropy
+class_weight:  balanced
 Confusion matrix:
  [[ 1724     3]
  [ 4249 12191]]
@@ -97,6 +124,9 @@ Precision: 0.2886321781349406
 Recall: 0.998262883613202
 
 F1-score: 0.4477922077922078
+ccp_alpha:  0.5
+criterion:  entropy
+class_weight:  None
 Confusion matrix:
  [[    0  1727]
  [    0 16440]]
@@ -108,6 +138,9 @@ Precision: 0.0
 Recall: 0.0
 
 F1-score: 0.0
+ccp_alpha:  0.5
+criterion:  log_loss
+class_weight:  balanced
 Confusion matrix:
  [[ 1724     3]
  [ 4249 12191]]
@@ -119,6 +152,9 @@ Precision: 0.2886321781349406
 Recall: 0.998262883613202
 
 F1-score: 0.4477922077922078
+ccp_alpha:  0.5
+criterion:  log_loss
+class_weight:  None
 Confusion matrix:
  [[    0  1727]
  [    0 16440]]
@@ -130,6 +166,9 @@ Precision: 0.0
 Recall: 0.0
 
 F1-score: 0.0
+ccp_alpha:  0.05
+criterion:  gini
+class_weight:  balanced
 Confusion matrix:
  [[ 1717    10]
  [ 4074 12366]]
@@ -141,6 +180,9 @@ Precision: 0.2964945605249525
 Recall: 0.9942096120440069
 
 F1-score: 0.4567704176642724
+ccp_alpha:  0.05
+criterion:  gini
+class_weight:  None
 Confusion matrix:
  [[    0  1727]
  [    0 16440]]
@@ -152,6 +194,9 @@ Precision: 0.0
 Recall: 0.0
 
 F1-score: 0.0
+ccp_alpha:  0.05
+criterion:  entropy
+class_weight:  balanced
 Confusion matrix:
  [[ 1724     3]
  [ 4249 12191]]
@@ -163,6 +208,9 @@ Precision: 0.2886321781349406
 Recall: 0.998262883613202
 
 F1-score: 0.4477922077922078
+ccp_alpha:  0.05
+criterion:  entropy
+class_weight:  None
 Confusion matrix:
  [[    0  1727]
  [    0 16440]]
@@ -174,6 +222,9 @@ Precision: 0.0
 Recall: 0.0
 
 F1-score: 0.0
+ccp_alpha:  0.05
+criterion:  log_loss
+class_weight:  balanced
 Confusion matrix:
  [[ 1724     3]
  [ 4249 12191]]
@@ -185,6 +236,9 @@ Precision: 0.2886321781349406
 Recall: 0.998262883613202
 
 F1-score: 0.4477922077922078
+ccp_alpha:  0.05
+criterion:  log_loss
+class_weight:  None
 Confusion matrix:
  [[    0  1727]
  [    0 16440]]
@@ -196,6 +250,9 @@ Precision: 0.0
 Recall: 0.0
 
 F1-score: 0.0
+ccp_alpha:  0.005
+criterion:  gini
+class_weight:  balanced
 Confusion matrix:
  [[ 1701    26]
  [ 3842 12598]]
@@ -207,6 +264,9 @@ Precision: 0.3068735341872632
 Recall: 0.984944991314418
 
 F1-score: 0.4679504814305364
+ccp_alpha:  0.005
+criterion:  gini
+class_weight:  None
 Confusion matrix:
  [[  220  1507]
  [   58 16382]]
@@ -218,6 +278,9 @@ Precision: 0.7913669064748201
 Recall: 0.12738853503184713
 
 F1-score: 0.2194513715710723
+ccp_alpha:  0.005
+criterion:  entropy
+class_weight:  balanced
 Confusion matrix:
  [[ 1701    26]
  [ 3870 12570]]
@@ -229,6 +292,9 @@ Precision: 0.3053311793214863
 Recall: 0.984944991314418
 
 F1-score: 0.4661551109893122
+ccp_alpha:  0.005
+criterion:  entropy
+class_weight:  None
 Confusion matrix:
  [[  212  1515]
  [   44 16396]]
@@ -240,6 +306,9 @@ Precision: 0.828125
 Recall: 0.12275622466705269
 
 F1-score: 0.21381744831064045
+ccp_alpha:  0.005
+criterion:  log_loss
+class_weight:  balanced
 Confusion matrix:
  [[ 1701    26]
  [ 3870 12570]]
@@ -251,6 +320,9 @@ Precision: 0.3053311793214863
 Recall: 0.984944991314418
 
 F1-score: 0.4661551109893122
+ccp_alpha:  0.005
+criterion:  log_loss
+class_weight:  None
 Confusion matrix:
  [[  212  1515]
  [   44 16396]]

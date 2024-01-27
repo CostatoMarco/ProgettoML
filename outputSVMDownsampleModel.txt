@@ -1,3 +1,6 @@
+Kernel:  linear
+C:  1
+Class_weight:  balanced
 Confusion matrix:
  [[ 1704    23]
  [ 4371 12069]]
@@ -10,6 +13,9 @@ Recall: 0.986682107701216
 
 F1-score: 0.43681107408356834
 --------------
+Kernel:  linear
+C:  1
+Class_weight:  None
 Confusion matrix:
  [[ 1704    23]
  [ 4371 12069]]
@@ -22,6 +28,9 @@ Recall: 0.986682107701216
 
 F1-score: 0.43681107408356834
 --------------
+Kernel:  linear
+C:  5
+Class_weight:  balanced
 Confusion matrix:
  [[ 1704    23]
  [ 4371 12069]]
@@ -34,6 +43,9 @@ Recall: 0.986682107701216
 
 F1-score: 0.43681107408356834
 --------------
+Kernel:  linear
+C:  5
+Class_weight:  None
 Confusion matrix:
  [[ 1704    23]
  [ 4371 12069]]
@@ -46,6 +58,9 @@ Recall: 0.986682107701216
 
 F1-score: 0.43681107408356834
 --------------
+Kernel:  linear
+C:  10
+Class_weight:  balanced
 Confusion matrix:
  [[ 1704    23]
  [ 4371 12069]]
@@ -58,6 +73,9 @@ Recall: 0.986682107701216
 
 F1-score: 0.43681107408356834
 --------------
+Kernel:  linear
+C:  10
+Class_weight:  None
 Confusion matrix:
  [[ 1704    23]
  [ 4371 12069]]
@@ -70,6 +88,9 @@ Recall: 0.986682107701216
 
 F1-score: 0.43681107408356834
 --------------
+Kernel:  poly
+C:  1
+Class_weight:  balanced
 Confusion matrix:
  [[ 1558   169]
  [ 3837 12603]]
@@ -82,6 +103,9 @@ Recall: 0.9021424435437174
 
 F1-score: 0.43751755124964903
 --------------
+Kernel:  poly
+C:  1
+Class_weight:  None
 Confusion matrix:
  [[ 1558   169]
  [ 3837 12603]]
@@ -94,6 +118,9 @@ Recall: 0.9021424435437174
 
 F1-score: 0.43751755124964903
 --------------
+Kernel:  poly
+C:  5
+Class_weight:  balanced
 Confusion matrix:
  [[ 1590   137]
  [ 3892 12548]]
@@ -106,6 +133,9 @@ Recall: 0.9206716850028952
 
 F1-score: 0.44111527257594674
 --------------
+Kernel:  poly
+C:  5
+Class_weight:  None
 Confusion matrix:
  [[ 1590   137]
  [ 3892 12548]]
@@ -118,6 +148,9 @@ Recall: 0.9206716850028952
 
 F1-score: 0.44111527257594674
 --------------
+Kernel:  poly
+C:  10
+Class_weight:  balanced
 Confusion matrix:
  [[ 1698    29]
  [ 4726 11714]]
@@ -130,6 +163,9 @@ Recall: 0.9832078749276202
 
 F1-score: 0.416635995583364
 --------------
+Kernel:  poly
+C:  10
+Class_weight:  None
 Confusion matrix:
  [[ 1698    29]
  [ 4726 11714]]
@@ -142,6 +178,9 @@ Recall: 0.9832078749276202
 
 F1-score: 0.416635995583364
 --------------
+Kernel:  rbf
+C:  1
+Class_weight:  balanced
 Confusion matrix:
  [[ 1717    10]
  [ 4218 12222]]
@@ -154,6 +193,9 @@ Recall: 0.9942096120440069
 
 F1-score: 0.4481858522578961
 --------------
+Kernel:  rbf
+C:  1
+Class_weight:  None
 Confusion matrix:
  [[ 1717    10]
  [ 4218 12222]]
@@ -166,6 +208,9 @@ Recall: 0.9942096120440069
 
 F1-score: 0.4481858522578961
 --------------
+Kernel:  rbf
+C:  5
+Class_weight:  balanced
 Confusion matrix:
  [[ 1713    14]
  [ 4114 12326]]
@@ -178,6 +223,9 @@ Recall: 0.9918934568616097
 
 F1-score: 0.45353455123113584
 --------------
+Kernel:  rbf
+C:  5
+Class_weight:  None
 Confusion matrix:
  [[ 1713    14]
  [ 4114 12326]]
@@ -190,6 +238,9 @@ Recall: 0.9918934568616097
 
 F1-score: 0.45353455123113584
 --------------
+Kernel:  rbf
+C:  10
+Class_weight:  balanced
 Confusion matrix:
  [[ 1710    17]
  [ 4062 12378]]
@@ -202,6 +253,9 @@ Recall: 0.9901563404748118
 
 F1-score: 0.4560608081077477
 --------------
+Kernel:  rbf
+C:  10
+Class_weight:  None
 Confusion matrix:
  [[ 1710    17]
  [ 4062 12378]]
@@ -214,6 +268,9 @@ Recall: 0.9901563404748118
 
 F1-score: 0.4560608081077477
 --------------
+Kernel:  sigmoid
+C:  1
+Class_weight:  balanced
 Confusion matrix:
  [[ 1283   444]
  [ 4557 11883]]
@@ -226,6 +283,9 @@ Recall: 0.7429067747539085
 
 F1-score: 0.33910400422888864
 --------------
+Kernel:  sigmoid
+C:  1
+Class_weight:  None
 Confusion matrix:
  [[ 1283   444]
  [ 4557 11883]]
@@ -238,6 +298,9 @@ Recall: 0.7429067747539085
 
 F1-score: 0.33910400422888864
 --------------
+Kernel:  sigmoid
+C:  5
+Class_weight:  balanced
 Confusion matrix:
  [[ 1280   447]
  [ 4555 11885]]
@@ -250,6 +313,9 @@ Recall: 0.7411696583671106
 
 F1-score: 0.33853477915895264
 --------------
+Kernel:  sigmoid
+C:  5
+Class_weight:  None
 Confusion matrix:
  [[ 1280   447]
  [ 4555 11885]]
@@ -262,6 +328,9 @@ Recall: 0.7411696583671106
 
 F1-score: 0.33853477915895264
 --------------
+Kernel:  sigmoid
+C:  10
+Class_weight:  balanced
 Confusion matrix:
  [[ 1280   447]
  [ 4557 11883]]
@@ -274,6 +343,9 @@ Recall: 0.7411696583671106
 
 F1-score: 0.33844526705446853
 --------------
+Kernel:  sigmoid
+C:  10
+Class_weight:  None
 Confusion matrix:
  [[ 1280   447]
  [ 4557 11883]]
