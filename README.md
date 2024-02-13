@@ -1,4 +1,4 @@
-# Progetto di Machine Learning: Rilevamento di Oggetti Pericolosi in Orbita Terrestre
+# Progetto di Machine Learning: Classificazione di Oggetti Pericolosi in Orbita Terrestre
 
 Questo progetto universitario riguarda l'analisi di un dataset contenente oltre 80.000 istanze etichettate di oggetti pericolosi in orbita terrestre. Sono stati addestrati diversi algoritmi di machine learning per rilevare e classificare tali oggetti.
 
